@@ -1,0 +1,22 @@
+
+    "GroceryItem": {
+        "Name": <String>
+        "ID": <Long>
+        "ItemInfo": {
+            "Desc": <String>
+            "Category": <String>
+        }
+        "Sales": {
+            "Price": <Float>
+            "Discount": <Float>
+        }
+        "Internal" {
+    "Aisle": <Int>
+    "TimesSold": {
+        "Today": <Int>
+        "Yesterday": <Int>
+    }
+}
+}
+
+
